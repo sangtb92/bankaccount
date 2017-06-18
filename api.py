@@ -9,10 +9,10 @@ PAGE_DEFAULT = 1
 
 app = Flask(__name__)
 
-app.config['MONGO_DBNAME'] = 'bankacc'
-app.config['MONGO_USERNAME'] = 'admin'
-app.config['MONGO_PASSWORD'] = '123456'
-app.config['MONGO_URI'] = 'mongodb://127.0.0.1:27017/bankacc'
+# app.config['MONGO_DBNAME'] = 'bankacc'
+# app.config['MONGO_USERNAME'] = 'admin'
+# app.config['MONGO_PASSWORD'] = '123456'
+app.config['MONGO_URI'] = 'mongodb://sangnd:ali33team@ds123182.mlab.com:23182/bankacc'
 mongo = PyMongo(app)
 
 
