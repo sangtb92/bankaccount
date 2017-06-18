@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5942a0be529cad1fac35d07b"},"username":"admin","password":"ali33team@@","firstname":"sang","lastname":"nguyen","email":"sangnd.92.tb@gmail.com","role":1.0,"jsessionid":{"$binary":"yG8h66T2YjGfmy3QfpnwTQ==","$type":"03"},"session_timeout":1.8e+06}
+{"_id":{"$oid":"5942a0be529cad1fac35d07c"},"username":"normal","password":"ali33team@@","firstname":"sang","lastname":"nguyen","email":"sangnd.92.tb@gmail.com","role":2.0,"jsessionid":{"$binary":"Ikbe2/ilchK+EmZGquuhaw==","$type":"03"},"session_timeout":1.8e+06}
